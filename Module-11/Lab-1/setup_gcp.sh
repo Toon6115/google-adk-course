@@ -1,0 +1,3 @@
+export GOOGLE_CLOUD_PROJECT=""
+export GOOGLE_CLOUD_LOCATION=""
+export GOOGLE_API_KEY=""
