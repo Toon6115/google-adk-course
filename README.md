@@ -4,7 +4,7 @@ This repository contains all the hands-on labs for the Udemy course on building 
 
 Each module builds on the previous one, starting from creating a simple agent and progressing through tools, memory, callbacks, guardrails, deployment, and a full capstone project. The labs are designed to be followed along with the video lessons. You will find just enough here to run each lab, but the explanations and walkthroughs live in the course itself.
 
-**[Enroll in the course on Udemy](https://www.example.com)**
+**[Enroll in the course on Udemy](https://www.udemy.com/course/google-agent-development-kit-adk-build-deploy-ai-agents/?referralCode=8DCB8B8200F052259DE4)**
 
 ## Prerequisites
 
@@ -42,4 +42,4 @@ pip install -r requirements.txt
 
 This course takes you from zero to production-ready AI agents using Google's ADK. You will learn how to build agents that use tools, maintain conversation memory, enforce safety guardrails, and deploy to Google Cloud. By the end, you will have built a complete AI Travel Planner that ties together everything you learned.
 
-**[Enroll in the course on Udemy](https://www.example.com)**
+**[Enroll in the course on Udemy](https://www.udemy.com/course/google-agent-development-kit-adk-build-deploy-ai-agents/?referralCode=8DCB8B8200F052259DE4)**
