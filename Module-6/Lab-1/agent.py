@@ -11,7 +11,7 @@ load_dotenv()
 # --- Step 1: Define the Agent ---
 agent = Agent(
     name="helpful_agent",
-    model="gemini-2.5-flash",
+    model="gemini-3.5-flash",
     description="A helpful assistant that answers user questions.",
     instruction="You are a friendly and concise assistant. Answer user questions clearly.",
 )

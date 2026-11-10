@@ -90,4 +90,4 @@ gcloud/
 *.pem
 *.key
 secrets/
-credentials/
+credentials/.env
