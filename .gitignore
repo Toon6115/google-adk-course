@@ -91,3 +91,4 @@ gcloud/
 *.key
 secrets/
 credentials/.env
+.env
